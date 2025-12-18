@@ -1,0 +1,7 @@
+{
+  "//": "Vercel configuration for static HTML site with clean URLs (hide `.html` in the browser).",
+  "cleanUrls": true,
+  "trailingSlash": false
+}
+
+
